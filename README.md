@@ -1,5 +1,12 @@
 <p align="center"><img src="https://telegra.ph/file/c11bc24f9be8f4d8f1666.jpg" alt="ICON" width="150" height="150"/></p>
 
+<div align="center">
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+
 ### Hello There 👋🏻, welcome to my GitHub profile.
 
 Let me introduce you about myself, my name is Panda; from Indonesia. My hobby is Listening music, Playing Game, Poster Design & Logo making.
