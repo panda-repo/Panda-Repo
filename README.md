@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello There 👋🏻, welcome to my GitHub profile.
 
-<!--
-**panda-repo/Panda-Repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Let me introduce you about myself, my name is Reynaldi Siregar; 17 y.o from Indonesia. My hobby is Listening music, Playing Game, Poster Design & Logo making.
 
-Here are some ideas to get you started:
+Other thing you need to know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning on programming.
+- 💬 Ask me about Telegram Bot only.
+- 📫 Contact me on: [Telegram](https://t.me/vionite)
+
+### My Stats
+![Levina-Lab's GitHub stats](https://github-readme-stats.vercel.app/api?username=panda-repo&show_icons=true&theme=radical)
+
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=panda-repo&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/panda-repo)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=panda-repo)
+
+# My Tools:
+- PyCharm
+- Numpy
+- Visual Studio Code
+- GitHub CLI
+- Heroku Cli
+- PyQT
