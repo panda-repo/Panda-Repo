@@ -5,6 +5,10 @@
 <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+<div align="center">
+<img alt="Heroku" src="https://img.shields.io/badge/Heroku-purple?&style=for-the-badge&logoColor=white&logo=heroku"/>
+<img alt="Telegram" src="https://img.shields.io/badge/Telegram-blue?&style=for-the-badge&logoColor=white&logo=telegram"/>
+</div>
 
 
 ### Hello There 👋🏻, welcome to my GitHub profile.
